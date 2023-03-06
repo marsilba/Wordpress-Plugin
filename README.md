@@ -7,5 +7,7 @@ Make your day more fun and productive with this plugin.
 
 The plugin picks random motivational phrases and displays.
 
+<h2>Example of operation</h2>
+<br>
 
 ![pluginMotivational](https://user-images.githubusercontent.com/28272136/221083937-4f0f6354-229a-4347-b316-69acc77e9552.jpg)
